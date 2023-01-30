@@ -1,12 +1,12 @@
 # Postgraduate
 这个仓库是用来存放考研所需要的资料(参考专业书电子版、历年真题、课件等)，仓库里面划分了不同专业课
 
-1. 信号与系统
+1.信号与系统
 
-   <center class="half">
-       <img src="信号与系统/pic/1.png" style="zoom:50%;" />
-       <img src="信号与系统/pic/2.png" style="zoom:50%;" />
-   </center>
+<p align="center">
+       <img src="信号与系统/pic/1.png" width="45%">
+       <img src="信号与系统/pic/2.png" width="45%">
+</p>
 
 <img src="信号与系统/pic/3.png" style="zoom:50%;" />
 
