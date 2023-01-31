@@ -4,8 +4,8 @@
 1.信号与系统
 
 <p align="center">
-       <img src="信号与系统/pic/1.png" width="45%">
-       <img src="信号与系统/pic/2.png" width="45%">
+       <img src="pic/1.png" width="45%">
+       <img src="pic/2.png" width="45%">
 </p>
 
 <img src="信号与系统/pic/3.png" style="zoom:50%;" />
